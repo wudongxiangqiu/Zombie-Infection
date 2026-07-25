@@ -1,4 +1,4 @@
-# -
+# 僵尸感染
 给僵尸添加更有趣味性的玩法
 Installation information
 =======
